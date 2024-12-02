@@ -1,7 +1,7 @@
 # Hey, I’m @TATIOKA👋 
 
 - ➡️ I’m a **Tech Recruiting Consultant** specializing in hiring talents for **International Markets**.
-- 🌍 I connect top **Tech Talents** with amazing opportunities within 🇺🇸🇧🇷.
+- 🌍 I connect top **Tech Talents** with amazing opportunities within US and Brazil
 - 📋 **I'm Currently Hiring For:**  
   - Senior Software Engineers (Back-End, Front-End, FullStack)
   - Senior Cloud Engineers  
