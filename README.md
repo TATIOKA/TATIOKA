@@ -11,6 +11,7 @@
 📫 Reach me on LinkedIn: [Tatiana Oka](https://www.linkedin.com/in/tatioka/)
 
 ⚡ Fun Fact: I love tech culture, playing games, and I have a good eye for spotting rare soft skills fast! ✨
+
 🗣️ I Speak **English, Portuguese, Spanish, and Japanese** – So, don't be shy, let’s connect! 😊
 <!---
 TATIOKA/TATIOKA is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
