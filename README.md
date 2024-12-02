@@ -7,7 +7,8 @@
 - Senior Software Engineers (Back-End, Front-End, FullStack)
 - Senior Cloud, Architect & DevOps Engineers
 - Other exciting tech roles!
-📫 Reach me on LinkedIn: [YourLinkedInProfile](#)
+
+📫 Reach me on LinkedIn: [https://www.linkedin.com/in/tatioka/](#)
 
 ⚡ Fun Fact: I love tech culture, playing games, and I have a good eye for spotting rare soft skills fast! ✨
 🗣️ I Speak **English, Portuguese, Spanish, and Japanese** – So, don't be shy, let’s connect! 😊
